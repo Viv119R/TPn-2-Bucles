@@ -1,0 +1,25 @@
+Trabajos Practico Nro 1 JavaScript     
+
+Autor: Vivanco Matías José
+
+1-Hacer que aparezca en pantalla un alert con el texto "un mensaje".
+
+2-Escribir en la pantalla el texto "Hello World" usando document.write.
+
+3-Escribir en la pantalla el resultado de la suma 3 + 5.
+
+4-Pedir el nombre del usuario y luego escribir "Hola [nombreUsuario]".
+
+5-Pedir dos números y escribir el resultado de su suma.
+
+6-Pedir dos números y escribir en la pantalla cuál es el mayor.
+
+7-Pedir tres números y escribir en la pantalla cuál es el mayor de los tres.
+
+8-Pedir un número y decir si es divisible por 2.
+
+9-Pedir una frase y escribir solo las vocales que aparecen.
+
+10-Pedir un número y decir si es divisible por 2, 3, 5 o 7 (solo la primera coincidencia).
+
+11-Modificar el ejercicio anterior para que diga todos los números (2, 3, 5 o 7) por los cuales es divisible.
