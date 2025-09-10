@@ -55,6 +55,6 @@ if (d == 0) {
     document.writeln("C")
 }else if (d == 21){
     document.writeln("K")
-}else{
+}else if (d == 22){
     document.writeln("E")
 }
