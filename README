@@ -1,25 +1,37 @@
-Trabajos Practico Nro 1 JavaScript     
+Trabajos Practico Nro 2 JavaScript     
 
 Autor: Vivanco Matías José
 
-1-Hacer que aparezca en pantalla un alert con el texto "un mensaje".
+1 - Conducir por edad: Pide la edad y muestra si puede conducir (mayor de 18). Si no es un número válido, mostrar error.
 
-2-Escribir en la pantalla el texto "Hello World" usando document.write.
+2 - Notas: Pide una nota (0-10) y muestra la calificación (Muy deficiente, Insuficiente, Suficiente, etc.). Maneja entradas no válidas.
 
-3-Escribir en la pantalla el resultado de la suma 3 + 5.
+3 - Concatenar textos: Pide cadenas de texto hasta cancelar, luego las muestra unidas con guiones.
 
-4-Pedir el nombre del usuario y luego escribir "Hola [nombreUsuario]".
+4 - Sumar números: Pide números hasta cancelar, valida que sean correctos y muestra la suma total.
 
-5-Pedir dos números y escribir el resultado de su suma.
+5 - Letra DNI: Calcula la letra correspondiente a un número de DNI (0–99.999.999).
 
-6-Pedir dos números y escribir en la pantalla cuál es el mayor.
+6 - Pirámide numérica (1-30): Imprime números en forma de pirámide.
 
-7-Pedir tres números y escribir en la pantalla cuál es el mayor de los tres.
+7 - Pirámide inversa: Muestra pirámide invertida desde el número indicado (máx. 50).
 
-8-Pedir un número y decir si es divisible por 2.
+8 - Pirámide creciente: Imprime pirámide ascendente del 1 al número indicado (máx. 50).
 
-9-Pedir una frase y escribir solo las vocales que aparecen.
+9 - Múltiplos y líneas: Escribe números del 1 al 500, marca múltiplos de 4 y 9, y añade línea horizontal cada 5.
 
-10-Pedir un número y decir si es divisible por 2, 3, 5 o 7 (solo la primera coincidencia).
+10 - Tabla descendente: Pide filas y columnas y genera tabla con números consecutivos en orden descendente.
 
-11-Modificar el ejercicio anterior para que diga todos los números (2, 3, 5 o 7) por los cuales es divisible.
+11 - Mayor de tres: Pide 3 edades y 3 nombres, muestra quién es el mayor.
+
+12 - Número aleatorio: Genera un número aleatorio entre 1 y 99.
+
+13 - Texto en mayúsculas: Convierte una cadena a mayúsculas.
+
+14 - Texto separado por guiones: Muestra cadena con guiones entre cada carácter (sin replace).
+
+15 - Contar vocales: Cuenta cuántas vocales tiene un texto.
+
+16 - Texto al revés: Muestra una cadena invertida.
+
+17 - Posición primera vocal: Muestra la posición de la primera vocal en un texto.
