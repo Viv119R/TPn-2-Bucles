@@ -1,15 +1,16 @@
-let cadena = parseInt("");
-let numero;
-let seguir;
+let s = "";
+let n;
+let c;
 
 do {
-  numero = prompt(`Ingrese un numero`)
-  if (cadena === ""){
-    cadena = texto;
-  }else{
-    cadena = `${cadena} - ${texto}`;
+  n = parseInt(prompt(`Ingrese un numero`));
+  if (isNaN(n)) {
+    alert(`No ingresaste un número`);
+  } else if (s === "") {
+    s = n;
+  } else {
+    s = s + n;
   }
-  seguir = confirm("¿Desea continuar escribiendo?")
-}
-while (seguir);
-document.writeln(cadena);
+  c = confirm("¿Desea continuar escribiendo?");
+} while (c);
+document.writeln(s);
