@@ -11,3 +11,5 @@ for (let i = 1; i <= 500; i++){
     }
     document.writeln(`<br>`);
 }
+
+// Estructura switch
