@@ -19,3 +19,5 @@ if (isNaN(nota)) {
 } else {
   alert("Número erróneo");
 }
+
+//Estructura switch
